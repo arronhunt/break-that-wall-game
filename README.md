@@ -1,3 +1,5 @@
+![alt text](screenshot.jpg "Screenshot")
+
 # How to run
 
 1. Download processing for free from https://processing.org
